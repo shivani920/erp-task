@@ -177,7 +177,7 @@ const VendorPage = () => {
                       </div>
                     </div>
                     <div className="VendorPageMain">
-                      <div className="container-fluid" id="shivi">
+                      <div className="container-fluid text-start" id="shivi">
                         <div className="row">
                           <ul
                             className="nav nav-pills mb-3"

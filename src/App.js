@@ -174,6 +174,8 @@ import ScrapToFg from "./StoreMaster/StockTransaction/FGMovement/ScrapMovement/S
 
 import RMToTransaction from "./StoreMaster/StockTransaction/RMStockTransaction/RmToRmTransaction/RMToTransaction.jsx";
 import RMTOtherGroup from "./StoreMaster/StockTransaction/RMStockTransaction/RMTOtherGroup/RMTOtherGroup.jsx";
+import ShopFloor from "./StoreMaster/StockTransaction/ShopFloor/ShopFloor.jsx";
+import ShopFloorStock from "./StoreMaster/StockTransaction/ShopFloorStock/ShopFloorStock.jsx";
 
 
 import ReportStore from "./StoreMaster/Report/Report.jsx";
@@ -379,6 +381,8 @@ function App() {
         <Route path="ScrapToFg" element={<ScrapToFg/>} />
         <Route path="RMToTransaction" element={<RMToTransaction/>}/>
         <Route path="RMTOtherGroup" element={<RMTOtherGroup/>}/>
+        <Route path="ShopFloor" element={<ShopFloor/>}/>
+        <Route path="ShopFloorStock" element={<ShopFloorStock/>}/>
 
 
         <Route path="Report-Store" element={<ReportStore/>} />

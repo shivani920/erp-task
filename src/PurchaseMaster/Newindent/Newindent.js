@@ -272,10 +272,10 @@ const Newindent = () => {
                                         </td>
                                         <td>
                                           <button className="indenttablebtn me-2">
-                                            <FaPlus /> Add
+                                            <FaPlus /> 
                                           </button>
                                           <button className="indenttablebtn">
-                                            <FaTrash /> Delete
+                                            <FaTrash /> 
                                           </button>
                                         </td>
                                       </tr>

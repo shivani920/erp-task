@@ -167,10 +167,10 @@ const General = ({ formData, onFormDataChange, onNextButtonClick }) => {
 
   return (
     <div className="VendorGeneral">
-      <div className="container-fluid">
+      <div className="container-fluid text-start" >
         <form onSubmit={handleGeneralSubmit} autoComplete="off">
           <div className="row text-start">
-            <div className="col-md-6">
+            <div className="col-md-6 text-start">
               <div className="form">
                 <div className="row mb-3">
                   <label

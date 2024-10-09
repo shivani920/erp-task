@@ -354,12 +354,10 @@ const AddNewItem = () => {
                                               </option>
                                               <option value="Store">STORE</option>
                                               <option value="Maintenace">MAINTENANCE</option>
-                                              <option value="FG">Fg</option>
+                                              <option value="FG">FG</option>
                                               <option value="SFG">SFG</option>
-                                              <option value="RAW Material">RAW Material</option>
-                                              <option value="Consumerable">Consumerable</option>
-
-
+                                              <option value="RAW Material">RAW MATERIAL</option>
+                                              <option value="Consumerable">CONSUMABLE</option>
                                             </select>
                                           </div>
                                           <div className="col-sm-2">

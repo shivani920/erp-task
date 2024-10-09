@@ -145,7 +145,7 @@ const MasterReport = () => {
                                         <th scope="col">Item No</th>
                                         <th scope="col">Item Code</th>
                                         <th scope="col">Item Desc</th>
-                                        <th scope="col">Main Group</th>
+                                        <th scope="col"></th>
                                         <th scope="col">Group</th>
                                         <th scope="col">Grade</th>
                                         <th scope="col">Size</th>
